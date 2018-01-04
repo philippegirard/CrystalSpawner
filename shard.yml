@@ -1,0 +1,19 @@
+name: Spawner
+version: 0.1.0
+
+ authors:
+  - Philippe Girard <philippe.girard5@gmail.com>
+
+ description: |
+   Spawner is system to spawn functions
+
+# dependencies:
+#   pg:
+#     github: will/crystal-pg
+#     version: "~> 0.5"
+
+# development_dependencies:
+#   webmock:
+#     github: manastech/webmock.cr
+
+# license: MIT

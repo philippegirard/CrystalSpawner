@@ -1,0 +1,2 @@
+repeat_params: "./functions/c_exe a b c"
+say_hello: "ruby ./functions/hello.rb"
